@@ -83,6 +83,14 @@ const Index = () => {
 
       <main className="container mx-auto px-4 py-12">
         <section className="text-center mb-16 animate-fade-in">
+          <div className="max-w-4xl mx-auto mb-8">
+            <img 
+              src="https://cdn.poehali.dev/projects/caf5b4b4-e700-435c-8165-d02b0749254a/files/d2d3b923-46d5-4777-ba21-858b8ef07c2f.jpg"
+              alt="Дружелюбные питомцы"
+              className="rounded-3xl shadow-2xl w-full h-[300px] md:h-[400px] object-cover"
+            />
+          </div>
+          
           <h2 className="text-4xl md:text-5xl font-bold mb-4 text-foreground">
             Забота о ваших питомцах — наша миссия
           </h2>
